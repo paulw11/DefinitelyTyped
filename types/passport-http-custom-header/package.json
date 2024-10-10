@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/passport-http-custom-header",
+    "version": "0.3.1",
+    "projects": [
+        "https://github.com/paulw11/passport-http-custom-header"
+    ],
+    "dependencies": {
+        "@types/express": "*",
+        "@types/passport": "*"
+    },
+    "devDependencies": {
+        "@types/passport-http": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Paul Wilkinson",
+            "githubUsername": "paulw11"
+        }
+    ]
+}
