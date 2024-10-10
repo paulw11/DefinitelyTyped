@@ -14,6 +14,6 @@
     },
     "files": [
         "index.d.ts",
-        "passport-http-custom-headers-tests.ts"
+        "passport-http-custom-header-tests.ts"
     ]
 }
